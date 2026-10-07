@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local-only product and development specs
+/产品文档.md
+/AI开发文档.md
